@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     "rest_framework",
     "curriculum",
     "users",
+    "ckeditor",
 ]
 
 MIDDLEWARE = [
